@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hi, I'm **Marcos Martins**! 👋 <br>
-**Full Stack Software Engineer | AI Specialist | B.S. Software Engineering Student**
+**Full Stack Software Engineer | AI Specialist | Software Engineering***
 
-I build AI-powered products, scalable automations, and data-driven platforms that transform complex ideas into reliable solutions. My focus is on the full product lifecycle: from modern frontend experiences with **React** and **TypeScript** to robust backend services using **Python**, **FastAPI**, and **Supabase**.
+I build AI-powered products, scalable automations, and data-driven platforms that transform complex ideas into reliable solutions. My focus is on the full product lifecycle: from modern frontend experiences with **React** and **TypeScript** to robust backend services using **Python**, **FastAPI**, **Supabase** and **N8N**.
 
 I thrive on solving complex technical challenges, integrating LLMs into real-world workflows, and building systems that are scalable, maintainable, and user-centered.
 
